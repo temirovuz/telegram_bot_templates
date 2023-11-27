@@ -7,4 +7,4 @@ new create <b>.env </b>
 <br><br>
 proyekt packages <b>packages.txt</b> 
 <br><br>
-pip install -r packages.txt
+pip install -r <b>packages.txt</b>
