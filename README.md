@@ -7,4 +7,4 @@
 
 ## proyekt packages packages.txt
 
-    pip install -r <b>packages.txt</b>
+    pip install -r packages.txt
