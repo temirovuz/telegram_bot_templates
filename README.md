@@ -1,7 +1,7 @@
 # Aiogram telegram bot templates 
 ## Python
 
-* **new create .env**
+* **Create .env file**
 
 * **.env in TOKEN**
 
