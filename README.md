@@ -3,7 +3,7 @@
 
 * **new create .env**
 
-## .env in TOKEN
+* **.env in TOKEN**
 
 ## proyekt packages packages.txt
 
