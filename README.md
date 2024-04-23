@@ -8,4 +8,4 @@
 * **proyekt packages packages.txt**
 ___
 
-  pip install -r packages.txt
+    pip install -r packages.txt
