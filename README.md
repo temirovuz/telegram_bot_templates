@@ -5,6 +5,6 @@
 
 * **.env in TOKEN**
 
-## proyekt packages packages.txt
+* **proyekt packages packages.txt**
 
     pip install -r packages.txt
